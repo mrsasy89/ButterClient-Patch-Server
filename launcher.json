@@ -1,0 +1,35 @@
+{
+  "banners": [
+    {
+      "src": "http://YOUR_HOST:8090/launcher/banners/banner1.png",
+      "link": "https://example.com"
+    }
+  ],
+
+  "messages": [
+    {
+      "message": "Welcome to your Monster Hunter Frontier server!",
+      "date": 1700000000,
+      "link": "https://example.com",
+      "kind": 1
+    }
+  ],
+
+  "links": [
+    {
+      "name": "Discord",
+      "link": "https://discord.gg/YOUR_DISCORD",
+      "icon": "http://YOUR_HOST:8090/launcher/btn_discord.png"
+    },
+    {
+      "name": "Manual",
+      "link": "https://example.com/manual",
+      "icon": "http://YOUR_HOST:8090/launcher/btn_manual.png"
+    }
+  ],
+
+  "background": "http://YOUR_HOST:8090/launcher/background.jpg",
+  "cog":        "http://YOUR_HOST:8090/launcher/cog.png",
+  "capcom":     "http://YOUR_HOST:8090/launcher/capcom.png",
+  "launcher_header": "http://YOUR_HOST:8090/launcher/launcher-header.png"
+}

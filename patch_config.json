@@ -1,6 +1,6 @@
 {
-    "PatchPort": 8093,
-    "ImagePort": 8094,
+    "PatchPort": 8094,
+    "ImagePort": 8090,
     "GameFolder": "./game",
     "ImageFolder": "./images",
     "Force": false,
