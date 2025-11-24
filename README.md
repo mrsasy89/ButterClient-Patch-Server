@@ -1,4 +1,4 @@
-# MHF Patch Server - ButterClient Edition
+# MHF Patch Server
 
 This project is based on the original patch server by rockisch:
 https://github.com/rockisch/mhf-patch-server
